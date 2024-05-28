@@ -31,6 +31,6 @@
 <div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam12f" alt="pritam12f" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam12f&show_icons=true&locale=en" alt="pritam12f" /></p>
 </div>
-<br><br><br>
+<br><br><br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam12f&" alt="pritam12f" /></p>
 

@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pritam Das</h1>
-
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritam12f&label=Profile%20views&color=0e75b6&style=flat" alt="pritam12f" /> </p>
@@ -29,7 +28,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee @pritam12f"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee @pritam12f" /></a></p><br><br><br>
 
-<div><p><img align="left" src="" alt="pritam12f" /></p>
+<div><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam12f&show_icons=true&locale=en&layout=compact" alt="pritam12f" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam12f&show_icons=true&locale=en" alt="pritam12f" /></p></div>
 

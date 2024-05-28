@@ -1,3 +1,5 @@
+<link href="./style.css" rel="stylesheet" type="text/css" />
+
 <h1 align="center">Hi 👋, I'm Pritam Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 

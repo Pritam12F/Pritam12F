@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritam12f" alt="pritam12f" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Typescript and understanding open source codebases**
+- 🌱 I’m currently coding **NextJS, Typescript Projects and understanding open source codebases**
 
 - 💬 Ask me about **React, NodeJS, ExpressJS, Hono, NextJS, Docker**
 
